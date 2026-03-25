@@ -9,7 +9,7 @@ Build an AI agent system that automates the full lifecycle of enterprise content
 - Turnaround time
 - Content consistency
 
-  ## _ Project Overview_
+  ## __ Project Overview__
 
    This project aims to develop an **AI-Powered multi-agent system** that streamlines enterprise content workflows. The system leverages intelligents agents to automate, optimize, and monitor content operations across various platforms.
 
