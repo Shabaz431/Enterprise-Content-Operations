@@ -3,5 +3,5 @@ Building an AI system that automates the full lifecycle of enterprise content
 <br>
 **## Creation**
 **## Compliance Review**
-**## Localization **
+**## Localization**
 **## Multi-channel distribution**
