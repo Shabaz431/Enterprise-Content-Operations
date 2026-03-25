@@ -1,5 +1,5 @@
 # AI for Enterprise-Content-Operations
-## Problem Statement
+## _Problem Statement_
 Build an AI agent system that automates the full lifecycle of enterprise content:
 - Content creation
 - Compliance review 
@@ -9,13 +9,13 @@ Build an AI agent system that automates the full lifecycle of enterprise content
 - Turnaround time
 - Content consistency
 
-  ## Project Overview
+  ##_ Project Overview_
 
    This project aims to develop an **AI-Powered multi-agent system** that streamlines enterprise content workflows. The system leverages intelligents agents to automate, optimize, and monitor content operations across various platforms.
 
 ___
 
-  ## Key Features
+  ## _Key Features_
 
   ### 1.Multi-Agent Pipelines
   -Automate content drafting, reviewing, localization, and publishing
