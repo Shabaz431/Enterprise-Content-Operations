@@ -1,10 +1,10 @@
 # Enterprise-Content-Operations
 Building an AI system that automates the full lifecycle of enterprise content
 <br>
-**## Creation**
+**##Creation**
 <br>
-**## Compliance Review**
+**##Compliance Review**
 <br>
-**## Localization**
+**##Localization**
 <br>
-**## Multi-channel distribution**
+**##Multi-channel distribution**
